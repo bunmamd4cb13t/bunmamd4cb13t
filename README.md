@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**bunmamd4cb13t/bunmamd4cb13t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [@supadumb](https://github.com/supadumb) a.k.a [@bunmamd4cb13t](https://github.com/bunmamd4cb13t)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+    <details>
+        <summary><strong>Quick Overview</strong></summary>
+        <br>
+        <div align="right">
+            <a href="https://app.hackthebox.com/profile/928801"><img src="https://img.shields.io/badge/HackTheBox-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" alt="Hack The Box"></a>
+            <a href="https://tryhackme.com/p/bunmamd4cb13t"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Try Hack Me"></a>
+        </div>
+    </details>
+</div>
